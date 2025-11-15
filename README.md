@@ -33,7 +33,7 @@ This setup clearly illustrates a complete sensor–actuator loop.
 
 ## **Hardware Used**
 
-* Arduino Uno
+* Arduino Nano
 * LDR
 * 10kΩ resistor
 * LED + 220Ω resistor
