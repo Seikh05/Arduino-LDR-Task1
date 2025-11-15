@@ -88,7 +88,7 @@ Thresholds used:
 * `lightThreshold = 400` (dark)
 * `brightThreshold = 800` (very bright)
 
-These values can be adjusted based on your environment.
+These values can be adjusted based on our environment.
 
 ### **Serial Monitor Output**
 
