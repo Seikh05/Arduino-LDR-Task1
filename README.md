@@ -45,6 +45,8 @@ This setup clearly illustrates a complete sensor–actuator loop.
 
 ## **Circuit Diagram**
 
+![Circuit Diagram](images/circuit_diagram.png)
+
 ### **LDR Voltage Divider**
 
 * LDR → 5V
@@ -70,6 +72,12 @@ This setup clearly illustrates a complete sensor–actuator loop.
 
 ---
 
+## **Setup Photo**
+
+![Setup Photo](images/setup_photo.jpg)
+
+---
+
 ## **Arduino Code**
 
 The full code is included in the repository.
@@ -81,6 +89,10 @@ Thresholds used:
 * `brightThreshold = 800` (very bright)
 
 These values can be adjusted based on your environment.
+
+### **Serial Monitor Output**
+
+![Serial Monitor](images/serial_monitor.png)
 
 ---
 
